@@ -1,6 +1,8 @@
 # PROIdata
 This folder contains PROI extracted and segmented images as well as ground truth images
 
+Contains MATLAB file for extraction of PROI from hand radiograph. 
+
 Each subfolder (Number denotes the corresponding image from IPILAB dataset) contains extracted data, segmented images and ground truth images. If not the data will be in .mat files where variables stand for:
 Z - extracted image from hand radiograph.
 S - Ground truth image. 
